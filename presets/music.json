@@ -1,7 +1,7 @@
 {
     "output": {
         "bass_enhancer#0": {
-            "amount": 8.0,
+            "amount": 7.0,
             "blend": 3.0,
             "bypass": false,
             "floor": 45.0,
@@ -9,7 +9,7 @@
             "harmonics": 8.5,
             "input-gain": 0.0,
             "output-gain": 0.0,
-            "scope": 250.0
+            "scope": 200.0
         },
         "blocklist": [],
         "convolver#0": {
@@ -28,7 +28,7 @@
             "wet": 0.0
         },
         "exciter#0": {
-            "amount": 3.0,
+            "amount": 1.5,
             "blend": 3.0,
             "bypass": false,
             "ceil": 16000.0,
@@ -36,7 +36,7 @@
             "harmonics": 8.5,
             "input-gain": 0.0,
             "output-gain": 0.0,
-            "scope": 3500.0
+            "scope": 3750.0
         },
         "filter#0": {
             "balance": 0.0,

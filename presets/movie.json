@@ -41,6 +41,7 @@
         "filter#0": {
             "balance": 0.0,
             "bypass": false,
+            "decramp": "Off",
             "equal-mode": "IIR",
             "frequency": 90.0,
             "gain": 0.0,
@@ -106,7 +107,7 @@
             "side-balance": 0.0,
             "side-level": 2.0,
             "softclip": false,
-            "stereo-base": 0.5,
+            "stereo-base": 0.4,
             "stereo-phase": 0.0,
             "wet": 0.0
         }
